@@ -66,7 +66,4 @@ If you found this walkthrough helpful, ⭐ **Star this repository** and share it
 
 ---
 
-### 📩 Contact  
-For any queries or discussions, feel free to connect!  
-
-Happy Hacking! 🏴‍☠️  
+### Happy Hacking! 🏴‍☠️  
