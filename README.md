@@ -1,4 +1,4 @@
-# Chakravyuh CTF Walkthrough 
+# Chakravyuh CTF Walkthrough 🚀
 
 This repository contains a walkthrough for the **Chakravyuh CTF**, showcasing solutions and methodologies used to solve various challenges. The challenges tested different aspects of cybersecurity, including cryptography, OSINT, steganography, and reverse engineering.
 
