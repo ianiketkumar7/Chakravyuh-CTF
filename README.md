@@ -1,10 +1,10 @@
-# Chakravyuh CTF Walkthrough 🚀
+# Chakravyuh CTF Walkthrough 
 
 This repository contains a walkthrough for the **Chakravyuh CTF**, showcasing solutions and methodologies used to solve various challenges. The challenges tested different aspects of cybersecurity, including cryptography, OSINT, steganography, and reverse engineering.
 
 ---
 
-## 🔥 Challenges & Solutions  
+##  Challenges & Solutions  
 
 ### 1️⃣  32 or 64 Digit  
 - The challenge involved decrypting an encrypted value.  
@@ -51,18 +51,18 @@ This repository contains a walkthrough for the **Chakravyuh CTF**, showcasing so
 ---
 
 ## 🛠️ Tools Used  
-- **CyberChef** 🔥  
-- **Morse Code Translator** 📡  
-- **Google Lens** 🌍  
-- **Steganography Tools** 🔎  
-- **OSINT Techniques** 🔍  
+- **CyberChef**   
+- **Morse Code Translator**   
+- **Google Lens**   
+- **Steganography Tools**   
+- **OSINT Techniques**   
 
 ---
 
 ## 🏆 Conclusion  
 This CTF was an exciting journey through **encryption, OSINT, and steganography** techniques. The challenges required deep thinking, patience, and the ability to approach problems from multiple angles.  
 
-If you found this walkthrough helpful, ⭐ **Star this repository** and share it with fellow CTF enthusiasts! 🚀  
+If you found this walkthrough helpful, ⭐ **Star this repository** and share it with fellow CTF enthusiasts!   
 
 ---
 
