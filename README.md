@@ -2,8 +2,6 @@
 
 This repository contains a walkthrough for the **Chakravyuh CTF**, showcasing solutions and methodologies used to solve various challenges. The challenges tested different aspects of cybersecurity, including cryptography, OSINT, steganography, and reverse engineering.
 
----
-
 ##  Challenges & Solutions  
 
 ### 1️⃣  32 or 64 Digit  
@@ -48,8 +46,6 @@ This repository contains a walkthrough for the **Chakravyuh CTF**, showcasing so
 - A coded message hinted at a hidden **geolocation**.  
 - Used **alien language decryption techniques** to find the flag.  
 
----
-
 ## 🛠️ Tools Used  
 - **CyberChef**   
 - **Morse Code Translator**   
@@ -57,13 +53,9 @@ This repository contains a walkthrough for the **Chakravyuh CTF**, showcasing so
 - **Steganography Tools**   
 - **OSINT Techniques**   
 
----
-
 ## 🏆 Conclusion  
 This CTF was an exciting journey through **encryption, OSINT, and steganography** techniques. The challenges required deep thinking, patience, and the ability to approach problems from multiple angles.  
 
 If you found this walkthrough helpful, ⭐ **Star this repository** and share it with fellow CTF enthusiasts!   
-
----
 
 ### Happy Hacking! 🏴‍☠️  
